@@ -1,0 +1,23 @@
+{
+  "game": "edata9-doctor",
+  "v": 1,
+  "name": "깡충분석",
+  "mascot": "rabbit",
+  "created": "2026-10-28",
+  "quests": {
+    "W1-목": {
+      "기본": "2026-10-29"
+    }
+  },
+  "captures": {
+    "W1-목": "2026-10-29"
+  },
+  "dex": {},
+  "summary": {
+    "xp": 120,
+    "level": 3,
+    "grade": "견습생",
+    "dex": 0,
+    "hatched": true
+  }
+}
